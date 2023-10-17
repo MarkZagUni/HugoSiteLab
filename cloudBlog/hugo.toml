@@ -1,0 +1,4 @@
+baseURL = 'https://MarkZagUni.github.io/'
+languageCode = 'en-us'
+title = 'Marko Site'
+theme = 'hello-friend'
